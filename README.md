@@ -1,6 +1,6 @@
 # 💻 Amir Layegh
 
-I’m an NLP researcher pursuing my PhD at KTH Royal Institute of Technology, with interests in information retrieval, knowledge graph construction, retrieval-augmented generation (RAG), and more.
+I’m an NLP researcher pursuing my PhD at KTH Royal Institute of Technology, with interests in information retrieval (search), knowledge graph construction, retrieval-augmented generation (RAG), and more.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AmirLayegh&theme=dark&hide_border=true&cache_seconds=1800)](https://github.com/AmirLayegh)
 
